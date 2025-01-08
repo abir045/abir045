@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="left">
-  <img height="300" src="https://raw.githubusercontent.com/abir045/abir045/refs/heads/main/profile.jpg"  />
+  <img height="300" src="https://raw.githubusercontent.com/abir045/abir045/refs/heads/main/12795258_10153962246274323_3216031031054983741_n.jpg"  />
 </div>
 
 ###
